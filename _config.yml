@@ -1,29 +1,18 @@
-name: The Ramble Wanderings
-favicon: null
-layout_spectrum: 0.91468
-typography_spectrum: 0.71659
-title: As I wander through this fascination with life...
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7583453061524779
-  lightness: 0.8689757096581161
-  saturation: 0.7878198882099241
-  rhythmicContrast: 0.47643716749735177
+    - '#90A8A0'
+    - '#283868'
+    - '#6088A8'
+    - '#10A0F0'
+    - '#78E0F8'
+  brandStrength: 0.758345
+  lightness: 0.868975
+  rhythmicContrast: 0.476437
+  saturation: 0.787819
+cta: {}
+layout_spectrum: 0.91468
+name: The Ramble Wanderings
+opengraph: {}
 purpose: []
+typography_spectrum: 0.71659
