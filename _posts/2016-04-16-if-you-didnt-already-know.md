@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "If you didn't already know..."
-datePublished: '2016-04-16T21:58:31.207Z'
-dateModified: '2016-04-16T21:56:56.973Z'
+datePublished: '2016-04-16T22:27:50.893Z'
+dateModified: '2016-04-16T22:11:32.478Z'
 title: 'Welcome!'
 author: []
 sourcePath: _posts/2016-04-16-if-you-didnt-already-know.md
