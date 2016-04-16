@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "If you didn't already know..."
-datePublished: '2016-04-16T21:52:06.738Z'
-dateModified: '2016-04-16T21:47:35.093Z'
-title: ''
+datePublished: '2016-04-16T21:58:31.207Z'
+dateModified: '2016-04-16T21:56:56.973Z'
+title: 'Welcome!'
 author: []
 sourcePath: _posts/2016-04-16-if-you-didnt-already-know.md
 published: true
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: if-you-didnt-already-know/index.html
-_type: Article
+_type: Blurb
 
 ---
 [**If you didn't already know...**][0]
