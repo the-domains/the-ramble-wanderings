@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you didn't already know..."
-datePublished: '2016-04-16T21:18:41.797Z'
-dateModified: '2016-04-16T20:08:01.573Z'
+datePublished: '2016-04-16T21:47:29.774Z'
+dateModified: '2016-04-16T21:47:06.174Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-16-if-you-didnt-already-know.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-if-you-didnt-already-know.md
-published: true
 url: if-you-didnt-already-know/index.html
 _type: Article
 
