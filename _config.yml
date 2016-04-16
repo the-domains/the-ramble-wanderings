@@ -1,6 +1,6 @@
 name: The Ramble Wanderings
 favicon: null
-layout_spectrum: 0.91468
+layout_spectrum: 0.91281
 typography_spectrum: 0.71659
 title: As I wander through this fascination with life...
 cta:
@@ -22,8 +22,8 @@ color:
     - '#6088A8'
     - '#10A0F0'
     - '#78E0F8'
-  brandStrength: 0.5625
+  brandStrength: 0.1875
   lightness: 0.868975
-  saturation: 0.75
+  saturation: 0.1875
   rhythmicContrast: 0.476437
 purpose: []
