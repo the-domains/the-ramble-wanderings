@@ -1,4 +1,20 @@
-analytics: {}
+name: The Ramble Wanderings
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.71659
+title: As I wander through this fascination with life...
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#90A8A0'
@@ -8,11 +24,6 @@ color:
     - '#78E0F8'
   brandStrength: 0.1875
   lightness: 0.868975
-  rhythmicContrast: 0.476437
   saturation: 0.1875
-cta: {}
-layout_spectrum: 1
-name: The Ramble Wanderings
-opengraph: {}
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.71659
